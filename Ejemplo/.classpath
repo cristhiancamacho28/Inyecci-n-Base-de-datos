@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/wls12213/coherence/lib/coherence.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://docs.oracle.com/javaee/6/api/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/wls12213/wlserver/modules/com.bea.core.repackaged.springframework.spring.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://docs.oracle.com/javaee/6/api/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/http-core-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Usuarios/agaleana/eclipse-workspace/Portal_Desarrollo/WebContent/WEB-INF/lib/spring-jdbc-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Usuarios/agaleana/Downloads/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="lib/apiSF.jar"/>
+	<classpathentry kind="lib" path="lib/force-wsc-44.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
